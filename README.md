@@ -1,2 +1,1 @@
-# Timer
-Simple Timer made using React.js.  
+# Timer created using create-react-app
